@@ -1,0 +1,5 @@
+segment,n,mean,median,min,max
+Bronze Segment (Q1),31,256,300,0,375
+Silver Segment (Q2),33,839.4,750,600,1200
+Gold Segment (Q3),26,2326.9,3000,1500,3000
+Diamond Segment (Q4),18,20388.9,11500,6000,105000
