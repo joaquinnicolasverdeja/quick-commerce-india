@@ -1,6 +1,6 @@
 # Q-Commerce Tracker: Customer Segmentation of India's Instant Delivery Market
 
-**[Live app](LINK_TO_STREAMLIT_APP)** · **[Dataset on Kaggle](https://www.kaggle.com/datasets/vedanshsharma0024/quick-commerce-consumer-behavior)**
+**[Live app](https://quick-commerce-india.streamlit.app)** · **[Dataset on Kaggle](https://www.kaggle.com/datasets/vedanshsharma0024/quick-commerce-consumer-behavior)**
 
 ![Demo Video](https://github.com/user-attachments/assets/3676dd1e-9239-4209-9e2a-95fedea26538)
 
