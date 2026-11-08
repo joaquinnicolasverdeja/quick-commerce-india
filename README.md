@@ -2,7 +2,7 @@
 
 **[Live app](LINK_TO_STREAMLIT_APP)** · **[Dataset on Kaggle](https://www.kaggle.com/datasets/vedanshsharma0024/quick-commerce-consumer-behavior)**
 
-![App screenshot](images/app_screenshot.png)
+![Demo Video](https://github.com/user-attachments/assets/3676dd1e-9239-4209-9e2a-95fedea26538)
 
 ## Overview
 
@@ -83,6 +83,6 @@ The cleaned dataset is already included, so step 3 works on its own.
 - **Survey design.** Some answer options overlap (e.g. income "100000+" and "200000+").
 - **Data exclusions.** One response with an invalid city entry is excluded from the dashboard after segmentation.
 
-## Author
+## Strategic Analyst
 
-Joaquin Nicolas · [Portfolio](LINK_TO_PORTFOLIO)
+Joaquin Nicolas Verdeja M. · [Portfolio](LINK_TO_PORTFOLIO)
